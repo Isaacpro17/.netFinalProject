@@ -1,11 +1,11 @@
 # E-Learning Platform
 
 ## Group 19 Members
-- 25417 TUYISHIME Isaac
+- 25417 TUYISHIME Isaac(Leader)
 - 25434 KALIZA GAJU Lauraine
 - 25488 HIRWA Auguste
 - 25515 TUYISHIME Elvis
-
+- 25423 NAMAHORO Sandrine Marie Merci 
 ## Problem Statement
 Many educational institutions struggle with inefficient digital learning experiences, lacking centralized course management, limited student-teacher interaction, and inadequate progress tracking mechanisms.
 
